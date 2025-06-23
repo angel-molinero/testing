@@ -5,7 +5,7 @@
   "license": "ISC",
   "author": "Josue Cano",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "test": "jest --coverage"
   },
