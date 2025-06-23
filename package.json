@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "proyecto inicial de testing para la ch 55",
+  "license": "ISC",
+  "author": "Josue Cano",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jest": "^30.0.2"
+  }
+}
