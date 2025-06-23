@@ -14,3 +14,12 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) (versión 14 o supe
 
 ```bash
 npm install
+```
+# Como correr los test
+```bash
+npm test
+```
+
+# 📑Recursos útiles
+[Documentación de JEST](https://jestjs.io/docs/getting-started)
+
